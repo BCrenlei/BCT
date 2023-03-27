@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'BCT_Example' do
+  pod 'BCT', :path => '../'
+
+  target 'BCT_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
