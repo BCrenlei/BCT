@@ -1,0 +1,22 @@
+{
+  "name": "BCT",
+  "version": "0.1.0",
+  "summary": "A short description of BCT.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/BCrenlei/BCT",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "BCrenlei": "897464968@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/BCrenlei/BCT.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "BCT/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - BCT (0.1.0)
+
+DEPENDENCIES:
+  - BCT (from `../`)
+
+EXTERNAL SOURCES:
+  BCT:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BCT: 184fcafb83785e9cedfdfee011e235011a9c0b11
+
+PODFILE CHECKSUM: de0ed4b2210132ec413a936fd8c0f0c45a9e3548
+
+COCOAPODS: 1.11.3
